@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-vue-material-template
+        Nuxt w/ Vue Material
       </h1>
       <h2 class="subtitle">
-        simple boilerplate for a nuxt and vue-material project
+        Simple boilerplate for a nuxt and vue-material project
       </h2>
       <div class="links">
         <md-button href="https://nuxtjs.org/" target="_blank" class="md-raised md-primary">
